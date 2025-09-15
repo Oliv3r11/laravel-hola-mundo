@@ -8,7 +8,8 @@
 
     </head>
     <body  class="antialiased">
-       {{$hola}}
+       <h1>Hola , hice esto en github para hacer un cambio</h1>
+        {{$hola}}
   
     </body>
 </html>
